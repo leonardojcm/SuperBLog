@@ -1,12 +1,7 @@
 body
 {
-<<<<<<< HEAD
     background: #1e1f24;
     color: #333;
-=======
-    background: white;
-    color: #333333;
->>>>>>> footer
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -22,15 +17,12 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-<<<<<<< HEAD
 }
 
 #cabecera #logo
 {
     width: 20px;
     vertical-align: middle;
-=======
->>>>>>> footer
 }
 
 #cabecera #tagline
